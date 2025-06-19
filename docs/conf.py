@@ -1,4 +1,4 @@
-project = 'Webrootdocs'
+project = 'Webroothelps'
 author = 'Your Name'
 release = '1.0'
 

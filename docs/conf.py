@@ -1,4 +1,4 @@
-project = 'Webroot Login'
+project = 'Webrootdocs'
 author = 'Your Name'
 release = '1.0'
 
